@@ -6,7 +6,7 @@ oyna.rubynetwork.com.tr
 api.rubynw.com.tr
 api.craftrise.org.tr
 craftrise.org.tr
-212.38.88.245
+212.38.88.245.1
 45.141.150.85
 185.118.141.69
 45.94.171.74
